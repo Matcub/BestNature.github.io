@@ -1,9 +1,8 @@
 body {
 background-image: url("Cool.png");
-background-repeat: no-repeat;
-background-size: 100% 100%;
-float: left;
-width: auto;
+background-posision: center;
+background-attachment: fixed;
+background-size: cover;
 font-family: sans-serif;
 margin_left:auto;
 margin_right:auto;
