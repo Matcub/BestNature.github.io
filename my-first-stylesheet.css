@@ -38,7 +38,7 @@ nav ul li a {
     color: #111111;
 }
 nav ul li.selected {
-    color: #606060;
+    color: #F8F8FF;
 }
 nav ul li a:hover {
     text-decoration:
