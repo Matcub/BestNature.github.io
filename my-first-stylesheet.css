@@ -27,7 +27,7 @@ nav ul {
 nav ul li {
     display: inline;
     border-right: 2px solid
-     #000000;
+     #ffffff;
     padding-right: 8px;
     padding-left: 8px ;
 }
@@ -36,7 +36,7 @@ nav ul li:last-child {
 }
 nav ul li a {
     text-decoration: none;
-    color: #ffffff;
+    color: #000000;
 }
 nav ul li.selected {
     color: 	#808080;
